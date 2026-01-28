@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "email": "marceloaguilerav1976@gmail.com",
+      "password": "Macloga2025",
+      "name": "Admin Principal",
+      "role": "admin"
+    }
+  ],
+  "events": [],
+  "files": [],
+  "chat": [],
+  "news": [],
+  "help": []
+}

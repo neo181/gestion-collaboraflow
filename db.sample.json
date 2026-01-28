@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "email": "admin@example.com",
+      "password": "password123",
+      "name": "Admin User",
+      "role": "admin"
+    }
+  ],
+  "events": [],
+  "files": [],
+  "chat": [],
+  "news": [],
+  "help": []
+}
